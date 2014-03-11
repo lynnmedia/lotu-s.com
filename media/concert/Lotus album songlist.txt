@@ -1,0 +1,54 @@
+1)Sri Guru Pranama 
+2)Srila Prabhupada Pranama (1:48)
+3)Pancha Tattva Maha Mantra
+4)Maha Mantra (2:47)
+5)Krsna Jin Ka Nam Hai
+6)Sri Radhika-stava (2:09)
+7)Hare Narayana (2:55)
+8)Dayo Karo Bhagavan (4:47)
+9)Nama Sankirtana
+10)Sri Nrsimha Pranama (3:05)
+
+
+
+<audio controls preload="metadata" title="Sri Guru Pranama" style="display:none">
+	<source src="media/concert/Sri_Guru_Pranama.mp3" type="audio/mpeg" />
+	<source src="media/concert/Sri_Guru_Pranama.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Srila Prabhupada Pranati" style="display:none">
+	<source src="media/concert/Srila_Prabhupada_Pranati.mp3" type="audio/mpeg" />
+	<source src="media/concert/Srila_Prabhupada_Pranati.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Pancha Tattva Maha Mantra" style="display:none">
+	<source src="media/concert/Pancha_Tattva.mp3" type="audio/mpeg" />
+	<source src="media/concert/Pancha_Tattva.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Maha Mantra" style="display:none">
+	<source src="media/concert/Maha_Mantra.mp3" type="audio/mpeg" />
+	<source src="media/concert/Maha_Mantra.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Krsna Jin Ka Nam Hai" style="display:none">
+	<source src="media/concert/Krsna_JinKi.mp3" type="audio/mpeg" />
+	<source src="media/concert/Krsna_JinKi.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Sri Radhika-stava" style="display:none">
+	<source src="media/concert/Sri_Radhika_stava.mp3" type="audio/mpeg" />
+	<source src="media/concert/Sri_Radhika_stava.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Hari Narayana" style="display:none">
+	<source src="media/concert/Hari_Narayana.mp3" type="audio/mpeg" />
+	<source src="media/concert/Hari_Narayana.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Dayo Karo Bhagavan" style="display:none">
+	<source src="media/concert/Dayo_Karo_Bhagavan.mp3" type="audio/mpeg" />
+	<source src="media/concert/Dayo_Karo_Bhagavan.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Nama Sankirtana" style="display:none">
+	<source src="media/concert/Nama_Sankirtana.mp3" type="audio/mpeg" />
+	<source src="media/concert/.ogg" type="audio/ogg" />
+</audio>
+<audio controls preload="metadata" title="Sri Nrsimha Pranama" style="display:none">
+	<source src="media/concert/Sri_Nrsimha_Pranama.mp3" type="audio/mpeg" />
+	<source src="media/concert/Sri_Nrsimha_Pranama.ogg" type="audio/ogg" />
+</audio>
+
